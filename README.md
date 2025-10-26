@@ -43,6 +43,12 @@ text/
 ├── configs/
 │   └── target.conf
 └── images/
+    ├── vwa_home.png
+    ├── dvwa_login.png
+    ├── ftp_login.png
+    └── smb_shares.png
+ 
+
 ```
 
 ---
@@ -289,7 +295,8 @@ cd scripts
 ./01_reconhecimento.sh
 ./02_ftp_attack.sh
 # etc...
-```s
+```
+
 ---
 
 ## Estrutura
@@ -297,7 +304,7 @@ cd scripts
 - `wordlists/` - listas de usuário/senhas
 - `configs/` - configuração do alvo
 - `images/` - screenshots e evidências
----
+
 ---
 
 ## 📊 Resultados Obtidos
